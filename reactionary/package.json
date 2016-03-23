@@ -1,0 +1,11 @@
+{
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tomregan/reactionary.git"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "http-server": ">= 0.8.0",
+        "react-tools": ">= 0.13.3"
+    }
+}
